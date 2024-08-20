@@ -1,10 +1,10 @@
 # data-engineering-101
 
 ## Git & github
-- install git on your machine
-- create github account
-- create repository
-- clone repository locally
+- install git on your machine - done
+- create github account - done
+- create repository - done
+- clone repository locally - done
 - add changes to local files, commit and push to github
 - create branch locally
 - add changes to branch, push to remote (github)
