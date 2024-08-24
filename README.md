@@ -1,7 +1,10 @@
 # data-engineering-101
 
-## Git & github
+## h1 Git & github
 - install git on your machine - DONE
+GIT — это распределённая система управления версиями. Она используется для отслеживания изменений в исходном коде программного обеспечения. GIT позволяет разработчикам сохранять историю изменений, работать над разными версиями проекта одновременно, и сотрудничать с другими разработчиками, синхронизируя изменения. Это важный инструмент в командной разработке и для контроля качества кода.
+
+
 - create github account - DONE
 - create repository - DONE
 - clone repository locally - DONE
@@ -11,7 +14,7 @@
 - create pull request in github and merge to main branch - DONE
 
 ## Command line tools & bash
-- basic navigation
+- basic navigationgit
 - create, read, delete files and folders
 - file editing
 - file permissions
