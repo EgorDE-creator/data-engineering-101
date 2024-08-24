@@ -6,9 +6,9 @@
 - create repository - DONE
 - clone repository locally - DONE
 - add changes to local files, commit and push to github - DONE
-- create branch locally
-- add changes to branch, push to remote (github)
-- create pull request in github and merge to main branch
+- create branch locally - DONE
+- add changes to branch, push to remote (github) - DONE
+- create pull request in github and merge to main branch - DONE
 
 ## Command line tools & bash
 - basic navigation
