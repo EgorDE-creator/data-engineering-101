@@ -53,6 +53,8 @@ global - обозначает что эти настройки будут при
 
 Теперь поговорим о внесении изменений в вашем локальном репозитории.
 Для того чтобы понять в каком состоянии Git видит наши файлы внутри репозиторий выполняем команду git status - показывает текущий статус всех несохраненных (uncommited) изменений файлов в репозитории.
+
+
 - create branch locally - DONE
 - add changes to branch, push to remote (github) - DONE
 - create pull request in github and merge to main branch - DONE
