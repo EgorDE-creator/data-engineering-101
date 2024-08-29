@@ -22,15 +22,15 @@
 <strong>git config --global user.name "Имя пользователя"</strong>
 <strong>global</strong> - обозначает что эти настройки будут применяться к любому файлу, который вы отдадите под контроль.
 
-<li> По такой же схеме указываем email: git config --global user.email "почта"</li>
+<li> По такой же схеме указываем email: <strong>git config --global user.email "email"</strong></li>
 </ol>
 
 
-<h2>create github account</h2>
+<h2>Create github account</h2>
 
 [Ссылка на GitHub](https://github.com/home)
 
-<p> <strong> Не путайте GIT и GitHub </strong> <br> <strong> Git </strong>  - спецыальная программа, которая у вас на компе следит за изменениями ваших файлов, тогда как <strong> GitHub </strong> - специальное <em> WEB приложение </em>, которое позволяет вам загрузить с вашего компа в облако все изменения ваших файлов и хранить их там.</p>
+<p> <strong> Не путайте GIT и GitHub </strong> <br> <strong> Git </strong>  - спецыальная программа, которая у вас на компе следит за изменениями ваших файлов, <br> <strong> GitHub </strong> - специальное <em> WEB приложение </em>, которое позволяет вам загрузить с вашего компа в облако все изменения ваших файлов и хранить их там.</p>
 
 <h3> create repository </h3>
 
